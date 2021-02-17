@@ -31,3 +31,4 @@ def password(request):
 
     return render(request, 'generator/password.html', {'password': thepassword})
 
+

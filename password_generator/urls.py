@@ -23,3 +23,4 @@ urlpatterns = [
     path('info/', views.info, name='info'),
 
 ]
+
